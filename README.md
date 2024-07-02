@@ -25,8 +25,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/spiritcoder666/ETH_AVX_INTER_MOD__2.git
-    cd ETH_AVX_INTER_MOD__2
+    git clone https://github.com/cutucu/ETH_AVX_INTER_MOD_2.git
+    cd ETH_AVX_INTER_MOD_2
     ```
 
 2. Install the dependencies:
